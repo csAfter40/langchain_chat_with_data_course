@@ -7,3 +7,4 @@ yt_dlp
 pydub
 bs4
 tiktoken
+chromadb
